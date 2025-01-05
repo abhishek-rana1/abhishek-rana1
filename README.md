@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abhishek-rana1
-- 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Frontend Web Development 
 
 
 <!---
